@@ -1,0 +1,22 @@
+{
+  "name": "snowy",
+  "version": "0.0.1",
+  "description": "ORM for MySQL",
+  "main": "bin/index.js",
+  "bin": {
+    "snow": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ORM",
+    "MySQL"
+  ],
+  "author": "Zhandra Arevalo",
+  "license": "ISC",
+  "dependencies": {
+    "js-convert-case": "^4.2.0",
+    "yargs": "^17.7.2"
+  }
+}

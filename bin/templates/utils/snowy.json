@@ -1,0 +1,8 @@
+{
+  "system": {
+    "port": 7993
+  },
+  "enabledComponents": {
+    "database": false
+  }
+}
